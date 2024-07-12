@@ -1,5 +1,4 @@
- <div style="width: 200px; height: 200px; border: 2px solid black; background-color: white;"></div>
- <img src="https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif" alt="Example Image" style="width: 100%; display: inline-block;">
+<img src="https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif" alt="Example Image" style="display: block; margin: 0 auto; width: 100%">
   <h1 align="center">Hi 👋, I'm V27r</h1>
   <h3 align="center">Passionate about data science, always exploring innovative data insights.</h3>
   <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjMTBzandhejkweHgxaG9jM3pjYTQwaTdzaXJ0OGh5cmFmcXczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp">
