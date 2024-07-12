@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm V27r</h1>
 <h3 align="center">Passionate about data science, always exploring innovative data insights.</h3>
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjMTBzandhejkweHgxaG9jM3pjYTQwaTdzaXJ0OGh5cmFmcXczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjMTBzandhejkweHgxaG9jM3pjYTQwaTdzaXJ0OGh5cmFmcXczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v27r&label=Profile%20views&color=0e75b6&style=flat" alt="v27r" /> </p>
 
 - 🔭 I’m currently working on [Text-Summarizer-Project](https://github.com/V27r/Text-Summarizer-Project)
