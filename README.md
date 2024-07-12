@@ -1,3 +1,4 @@
+![Master Head](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
   <h1 align="center">Hi 👋, I'm V27r</h1>
   <h3 align="center">Passionate about data science, always exploring innovative data insights.</h3>
   <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjMTBzandhejkweHgxaG9jM3pjYTQwaTdzaXJ0OGh5cmFmcXczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp">
