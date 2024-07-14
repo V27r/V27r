@@ -3,7 +3,7 @@
 </p>
   <h1 align="center">Hi 👋, I'm V27r</h1>
   <h3 align="center">Passionate about data science, always exploring innovative data insights.</h3>
-  <img align="right" alt="Animated Coder" width="350" src="https://github.com/V27r/V27r/blob/main/coder_animated.gif?raw=true">
+  <img align="right" alt="Animated Coder" width="330" src="https://github.com/V27r/V27r/blob/main/coder_animated.gif?raw=true">
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=v27r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of v27r" />
   </p>
